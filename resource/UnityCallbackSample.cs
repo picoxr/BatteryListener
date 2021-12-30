@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CallBack : MonoBehaviour
+// This script demonstrates how to get the battery status through callback in Unity
+public class UnityCallbackSample : MonoBehaviour
 {
     void Start()
     {
